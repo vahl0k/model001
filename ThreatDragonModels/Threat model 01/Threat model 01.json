@@ -1,0 +1,18 @@
+{
+  "summary": {
+    "title": "Threat model 01",
+    "owner": "eduardo",
+    "description": "teste"
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [
+      {
+        "title": "teste001",
+        "thumbnail": "./public/content/images/thumbnail.jpg",
+        "id": 0
+      }
+    ],
+    "reviewer": "joao"
+  }
+}
